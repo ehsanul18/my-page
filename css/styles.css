@@ -53,8 +53,6 @@ a:hover {
   background-color: #e0ebe8;
   position: relative;
   padding-top: 100px;
-  padding-bottom: 400px;
-
 }
 
 .middle-container {
@@ -94,12 +92,7 @@ a:hover {
 }
 
 .hill {
-  /* position: relative;
-  top:4.5px; */
-  position: absolute;
-  left: 500px;
-  bottom: 0;
-  height: 45%;
+  vertical-align: middle;
 }
 
 .boy {
